@@ -1,0 +1,4 @@
+{
+  "name": "NovaVote: On-Chain Debate Room",
+  "description": "A hybrid Web3 forum and voting system on Arbitrum Nova. Combines off-chain discussion with on-chain governance using Merkle tree verification and flexible voting mechanisms."
+}
